@@ -24,5 +24,10 @@ public class MainMAp {
 
         System.out.println(catMap.get(bannykey));
 
+        WeekDays day = WeekDays.FRIDAY;
+        if(day == WeekDays.FRIDAY){
+            System.out.printf("Пятница");
+        }
+
     }
 }
