@@ -28,6 +28,5 @@ public class MainMAp {
         if(day == WeekDays.FRIDAY){
             System.out.printf("Пятница");
         }
-
     }
 }
